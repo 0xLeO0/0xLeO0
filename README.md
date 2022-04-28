@@ -7,8 +7,8 @@
 
 <p align=center>
 <div align=center>
-<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=legendlancer&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-<img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=legendlancer&theme=onedark" />
+<img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=devgruu&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
+<img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=devgruu&theme=onedark" />
 <br>
 <br>
 <br>
@@ -34,7 +34,7 @@
 
 - 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
-- 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
+- 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Next.js 𒑰 Vue.js 𒑰 Nuxt.js 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
 - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Java Spring Boot
 - 🏹 Chrome extension with React & Redux
 - 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Git 𒑰 Slack 𒑰 Jira
