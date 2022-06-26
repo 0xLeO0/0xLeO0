@@ -1,4 +1,4 @@
-<div><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" align=center width="40px"></div>
+<img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
 <a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg"><p align="center">💖 Visited Counts 💖<br><br> <img src="https://profile-counter.glitch.me/kritical0613/count.svg" /></a>
 
 ---
