@@ -34,7 +34,7 @@
 
 - 💰 Blockchain 𒑰 DeFi 𒑰 NFT 𒑰 Solidity 𒑰 Web3.js 𒑰 Ethers.js
 - ⚡ JavaScript 𒑰 Typescript 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C# 𒑰 Tailwind CSS
-- 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Next.js 𒑰 Vue.js 𒑰 Nuxt.js 𒑰 Figma 𒑰 Adob XD 𒑰 Adobe Photoshop
+- 🥇 React 𒑰 Material UI 𒑰 Ant Design 𒑰 Chakra UI 𒑰 Semantic UI 𒑰 Fuse React 𒑰 Next.js 𒑰 Vue.js 𒑰 Nuxt.js 𒑰 Figma 𒑰 Adobe XD 𒑰 Adobe Photoshop
 - 🎒 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django 𒑰 Java Spring Boot
 - 🏹 Chrome extension with React & Redux
 - 🌎 AWS 𒑰 Firebase 𒑰 MongoDB 𒑰 MariaDB 𒑰 Git 𒑰 Slack 𒑰 Jira
